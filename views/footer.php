@@ -45,7 +45,7 @@
 				</div> <!-- /span8 -->
 
 				<div class="credit span4">
-					<p>Powered by the <a href="http://ushahidi.com/"><img src="/themes/booty/img/footer-logo.png" alt="Ushahidi logo" /></a> Platform</p>
+					<p>Powered by the <a href="http://ushahidi.com/"><img src="/themes/handsoff/img/footer-logo.png" alt="Ushahidi logo" /></a> Platform</p>
 				</div>
 			</div>
 		</footer> <!-- /footer -->
